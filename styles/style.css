@@ -79,11 +79,29 @@ main {
   padding: 100px 200px;
   background: #fff8f3;
   text-align: center;
-  box-shadow: 7px 6px 12px 0px rgba(84, 81, 81, 0.188);
+  box-shadow: 7px 6px 12px 0px rgba(88, 87, 87, 0.087);
 }
 
 .details {
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
+}
+
+.skill {
+  margin: 100px 0;
+  text-align: center;
+}
+
+.card-box {
+  margin: 50px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  text-align: left;
+  padding: 60px 30px;
+  box-shadow: 4px 3px 10px 7px rgba(201, 201, 201, 0.086);
+  margin: 20px;
 }
